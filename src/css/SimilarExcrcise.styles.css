@@ -1,0 +1,8 @@
+.popup-card {
+  transition: 0.3s all ease-in-out;
+  transform: scale(1, 1);
+}
+.popup-card:hover {
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
